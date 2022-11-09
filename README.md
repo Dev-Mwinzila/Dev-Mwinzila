@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dev-Mwinzila
 - 👀 I’m interested in .. software engineering and deveops engineering.
--  🌱 I’m currently learning ...php amnd java.
+-  🌱 I’m currently learning ...php and java.
 - 💞️ I’m looking to collaborate on ... web development and software development.
 - 📫 How to reach me ... whatsapp +254711317937 or email @ devmwinzila@gmail.com
 
