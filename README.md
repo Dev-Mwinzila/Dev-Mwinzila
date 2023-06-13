@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dev-Mwinzila
+- 👋 Hi, I’m @Dev_Mwinzila
 - 👀 I’m interested in .. software engineering and deveops engineering.
 -  🌱 I’m currently learning ...php and java.
 - 💞️ I’m looking to collaborate on ... web development and software development.
